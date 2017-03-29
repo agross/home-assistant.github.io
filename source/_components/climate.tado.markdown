@@ -27,6 +27,6 @@ tado:
 - **username** (*Required*): Username for my.tado.com.
 - **password** (*Required*): Password for my.tado.com.
 
-The tado thermostats are internet connected thermostats. There exists an unofficial api at my.tado.com, which is used by theire website and now by this component.
+The tado thermostats are internet connected thermostats. There exists an unofficial API at my.tado.com, which is used by their website and now by this component.
 
 It currently supports presenting the current temperature, the setting temperature and the current operation mode. Switching the mode is also supported. If no user is at home anymore, the devices are showing the away-state. Switching to away-mode is not supported.
